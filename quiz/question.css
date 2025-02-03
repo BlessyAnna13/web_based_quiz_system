@@ -1,0 +1,34 @@
+.ques {
+    padding:20;
+
+}
+
+.opt {
+    padding: 20;
+    
+}
+
+.ans {
+    padding: 20;
+    
+}
+
+td {
+    padding: 5px;
+}
+
+.ad {
+    
+    font-weight: bold;
+    margin-bottom: 50;
+}
+
+
+
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: Arial, sans-serif;
+    margin: 70;
+    padding: 100;
+        
+}

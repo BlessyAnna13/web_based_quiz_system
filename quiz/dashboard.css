@@ -1,0 +1,16 @@
+a:link ,a:visited {
+    font-size: x-large;
+    margin: auto;
+    width: 20%;
+    border: outset lightcoral;
+    padding: 10px 20px;
+   
+      color: blue;
+      text-align: left;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+  a:hover {
+    color:brown;
+  }
